@@ -1,4 +1,5 @@
 <p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+
 # Validando Formulários Estudo
 
 Esta é uma aplicação de validação de formulários, na qual utilizo uma API de CEP, códigos em Javascript que validam o formulário e uma página que tira uma foto usando sua webcam.
